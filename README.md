@@ -1,6 +1,6 @@
 # About-Diffusers
 
-For the math of transformer models, materials can be found easily. Here, the article dysmystified some important topics in transformer models, https://osanseviero.github.io/hackerllama/blog/posts/random_transformer/.
+For the math of transformer models, materials can be found easily in many places. Here, the article dysmystified some important topics in transformer models, https://osanseviero.github.io/hackerllama/blog/posts/random_transformer/.
 
 Some articles were listed here for reference, their content was primaryly about the arithmetic issues related to transformer models. 
 
