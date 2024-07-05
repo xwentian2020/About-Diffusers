@@ -13,4 +13,4 @@ It might be expected to train the stable diffusion models, and descriptions can 
 
 The code snippet in test_sdxl1-base.py shows how to load the SD.v1-5 model (from https://blog.csdn.net/qq_38423499/article/details/137158458).
 
-The article (from https://github.com/Amblyopius/Stable-Diffusion-ONNX-FP16) presented a conversion tool, examples, and instructions on how to set up Stable Diffusion with ONNX model.
+The article (from https://github.com/Amblyopius/Stable-Diffusion-ONNX-FP16) presented a conversion tool, examples, and instructions on how to set up Stable Diffusion with ONNX model. Nvidia also provided their own ways to achieve the same purpose of transverting a PyToch script into a model in ONNX format, and details can be found in https://developer.nvidia.com/zh-cn/blog/speeding-up-deep-learning-inference-using-tensorrt-updated/. 
