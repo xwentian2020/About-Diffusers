@@ -12,3 +12,5 @@ In analysis, the roof-line model has always been used, and in https://www.basete
 It might be expected to train the stable diffusion models, and descriptions can be found in https://github.com/explainingai-code/StableDiffusion-PyTorch.
 
 The code snippet in test_sdxl1-base.py shows how to load the SD.v1-5 model (from https://blog.csdn.net/qq_38423499/article/details/137158458).
+
+The article (from https://github.com/Amblyopius/Stable-Diffusion-ONNX-FP16) presented a conversion tool, examples, and instructions on how to set up Stable Diffusion with ONNX model.
