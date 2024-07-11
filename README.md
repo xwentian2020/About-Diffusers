@@ -17,3 +17,8 @@ The article (from https://github.com/Amblyopius/Stable-Diffusion-ONNX-FP16) pres
 
 
 About the compilation developed for PyTorch 2, please take a loot at the article presented in https://towardsdatascience.com/how-pytorch-2-0-accelerates-deep-learning-with-operator-fusion-and-cpu-gpu-code-generation-35132a85bd26. There its authors presented a brief overview of the compilation procedure, especially the IR related descriptions. 
+
+A in-depth explanation had been presented and it was titled with "How Pytorch 2.0 Accelerates Deep Learning with Operator Fusion and CPU/GPU Code-Generation", which can be found in https://towardsdatascience.com/how-pytorch-2-0-accelerates-deep-learning-with-operator-fusion-and-cpu-gpu-code-generation-35132a85bd26. 
+
+An article stated the concept of attention and its role in text generation and LLM, and its content can be found in https://lilianweng.github.io/posts/2018-06-24-attention/.
+
