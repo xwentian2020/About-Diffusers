@@ -22,3 +22,4 @@ A in-depth explanation had been presented and it was titled with "How Pytorch 2.
 
 An article stated the concept of attention and its role in text generation and LLM, and its content can be found in https://lilianweng.github.io/posts/2018-06-24-attention/.
 
+Here in https://onceuponanalgorithm.org/guide-what-is-a-stable-diffusion-seed-and-how-to-use-it/, desriptions have been provided for "seed", which is seldom discussed in other places.
