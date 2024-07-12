@@ -23,3 +23,5 @@ A in-depth explanation had been presented and it was titled with "How Pytorch 2.
 An article stated the concept of attention and its role in text generation and LLM, and its content can be found in https://lilianweng.github.io/posts/2018-06-24-attention/.
 
 Here in https://onceuponanalgorithm.org/guide-what-is-a-stable-diffusion-seed-and-how-to-use-it/, desriptions have been provided for "seed", which is seldom discussed in other places.
+
+It is equally important to profile the PyTorch script, and the profiling work needs to make configurations in the original Python script by adding some code snippets before and after the target code snippet. An article has presented its way of conducting profiling with NSys from Nvidia, and its content can be found in https://medium.com/@yuanzhedong/profile-pytorch-code-using-nsys-and-nsight-step-by-step-9c3f01995fd3.
