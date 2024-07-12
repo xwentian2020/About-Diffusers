@@ -1,6 +1,6 @@
 # About Diffusers
 
-For the math of transformer models, materials can be found easily in many places. Here, the article dysmystified some important topics in transformer models, https://osanseviero.github.io/hackerllama/blog/posts/random_transformer/.
+For the math of transformer models, materials can be found easily in many places. Here, the article dysmystified some important topics in transformer models, https://osanseviero.github.io/hackerllama/blog/posts/random_transformer/. Another article presented in-depth descriptions on the mathematics adopted by Stable Diffusion models, e.g., SD 1.x and SD 2.x, and this article can be found in https://lilianweng.github.io/posts/2021-07-11-diffusion-models/, and its authors also presented other topics as well.
 
 Some articles were listed here for reference, their content was primaryly about the arithmetic issues related to transformer models. 
 
